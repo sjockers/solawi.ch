@@ -1,0 +1,35 @@
+---
+title: solawi.ch
+timezone: UTC
+collections:
+  kooperationsstelle:
+    title: Kooperationsstelle
+    output: true
+  lehrgang:
+    title: Lehrgang
+    output: true
+  posts:
+    title: Posts
+    output: true
+  unterlagen:
+    title: Unterlagen
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+  ueber-uns:
+    title: Über uns
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    permalink: "/posts/:title/"
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+permalink: pretty
