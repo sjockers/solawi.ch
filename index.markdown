@@ -1,6 +1,7 @@
 ---
 title: solawi.ch
 date: 2016-11-04 17:26:00 Z
+layout: home
 gallery_images:
 - "/uploads/placeholder.jpg"
 - "/uploads/placeholder.jpg"
@@ -33,7 +34,7 @@ teasers:
     url: "/weiterentwicklung/"
 more:
   title: Mehr über die Hintergründe und unser Angebot
-  url: "/kooperationsstelle/"
+  url: "/kooperationsstelle/angebot"
 ---
 
 Solidarische Landwirtschaft basiert auf der direkten Zusammenarbeit von LandwirtInnen und KonsumentInnen. Dahinter stehen der Wille zu mehr Selbstbestimmung und der Wunsch nach einer wirklich nachhaltigen Landwirtschaft

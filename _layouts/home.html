@@ -1,0 +1,24 @@
+---
+
+---
+
+<ul>
+{% for image in page.gallery_images %}
+  <li">
+    <img src="{{ image }}" />
+  </li>
+{% endfor %}
+</ul>
+
+<ul>
+{% for teaser in page.teasers %}
+  <li class="{{ teaser[0] }}">
+    <h3>{{ teaser[1].title }}</h3>
+    <p>{{ teaser[1].description }}</p>
+  </li>
+{% endfor %}
+</ul>
+
+<a href="{{ page.more.url }}">
+  {{ page.more.title}}
+</a>
