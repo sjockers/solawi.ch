@@ -2,9 +2,6 @@
 title: solawi.ch
 timezone: UTC
 collections:
-  kooperationsstelle:
-    title: Kooperationsstelle
-    output: true
   lehrgang:
     title: Lehrgang
     output: true
