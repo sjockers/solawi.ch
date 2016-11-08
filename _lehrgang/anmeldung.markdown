@@ -1,6 +1,7 @@
 ---
 title: Anmeldung
 date: 2016-11-04 17:26:00 Z
+position: 1
 ---
 
 # Lorem ipsum dolor sit amet
