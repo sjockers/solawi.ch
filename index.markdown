@@ -5,6 +5,7 @@ position: 0
 gallery_images:
 - "/uploads/placeholder.jpg"
 - "/uploads/placeholder.jpg"
+- "/uploads/Screen%20Shot%202016-11-08%20at%2011.23.27.png"
 - "/uploads/placeholder.jpg"
 teasers:
   network:
@@ -38,4 +39,6 @@ more:
 layout: home
 ---
 
-Solidarische Landwirtschaft basiert auf der direkten Zusammenarbeit von LandwirtInnen und KonsumentInnen. Dahinter stehen der Wille zu mehr Selbstbestimmung und der Wunsch nach einer wirklich nachhaltigen Landwirtschaft
+**Solidarische Landwirtschaft** basiert auf der direkten Zusammenarbeit von LandwirtInnen und KonsumentInnen. Dahinter stehen der Wille zu mehr Selbstbestimmung und der Wunsch nach einer wirklich nachhaltigen Landwirtschaft
+
+![placeholder.jpg](/uploads/placeholder.jpg)
